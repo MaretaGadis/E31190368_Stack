@@ -5,6 +5,7 @@
  */
 package e31190368_stack;
 import java.util.Scanner;
+import java.util.Stack;
 /**
  *
  * @author acer
